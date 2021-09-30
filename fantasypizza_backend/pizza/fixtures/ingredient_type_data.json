@@ -1,0 +1,26 @@
+[
+    {
+        "model":"pizza.IngredientType",
+        "fields":{
+            "name":"Dough"
+        }
+    },
+    {
+        "model":"pizza.IngredientType",
+        "fields":{
+            "name":"Base"
+        }
+    },
+    {
+        "model":"pizza.IngredientType",
+        "fields":{
+            "name":"Cheese"
+        }
+    },
+    {
+        "model":"pizza.IngredientType",
+        "fields":{
+            "name":"Topping"
+        }
+    }
+]
