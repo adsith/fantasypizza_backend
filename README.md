@@ -1,2 +1,2 @@
-# fantasypizza_backend_django
-Backend server for fantasypizza in Python using django
+# fantasypizza_backend
+Backend server for fantasypizza in Python using fastapi
